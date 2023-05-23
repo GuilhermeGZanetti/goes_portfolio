@@ -1,4 +1,3 @@
-import "./PrivacyPolicy.css"
 import React from 'react';
 
 
